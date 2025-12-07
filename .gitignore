@@ -1,0 +1,19 @@
+# Virtual environments
+venv/
+
+
+# Python cache files
+__pycache__/
+*.pyc
+.coverage
+.pytest_cache/
+
+
+# Environment variable files
+.env
+
+
+#Mini test files
+test_gen.py
+test_with_mock.py
+model.py

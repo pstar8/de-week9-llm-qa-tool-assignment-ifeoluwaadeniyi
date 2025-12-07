@@ -1,0 +1,2 @@
+class LLMAPIError(Exception):
+    pass
